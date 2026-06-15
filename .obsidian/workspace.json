@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/00_Home/00_Index-Linux.md",
+                "file": "Windows/1. Office.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Index-Linux"
+              "title": "1. Office"
             }
           }
         ]
@@ -184,6 +184,10 @@
   },
   "active": "b848a1215792fa32",
   "lastOpenFiles": [
+    "Windows/attachments/Pasted image 20260615165236.png",
+    "Windows/attachments/Pasted image 20260615165230.png",
+    "Linux/00_Home/00_Index-Linux.md",
+    "Windows/1. Office.md",
     "6. Programação/Python/2. Projetos/2.12. Acessa a página de repositórios de um usuário no GitHub.md",
     "6. Programação/Python/2. Projetos/2.12..md",
     "6. Programação/Python/2. Projetos/Sem título.md",
@@ -209,9 +213,6 @@
     "6. Programação/Python/1. Bibliotecas/1.0. Geral.md",
     "6. Programação/Python/1. Bibliotecas/0. Geral.md",
     "6. Programação/Python/2. Projetos/2.11. Ferramenta gráfica para abrir o navegador.md",
-    "6. Programação/Python/2. Projetos/2.10. Desenvolvendo um verificador de IP Externo.md",
-    "6. Programação/Python/2. Projetos/2.9. Desenvolvedor um ocutador de arquivo.md",
-    "6. Programação/Python/2. Projetos/2.8. Verificador de telefone.md",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144451.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144443.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144435.png",
@@ -224,7 +225,6 @@
     "6. Programação/Python/2. Projetos/attachments",
     "6. Programação/Python/2. Projetos",
     "6. Programação/Python/Sem título",
-    "6. Programação/0. IDLE/attachments/LayoutsSpyder.png",
     "6. Programação/0. IDLE/attachments",
     "6. Programação/0. IDLE",
     "6. Programação/0. ID",
