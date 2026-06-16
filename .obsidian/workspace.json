@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/1. Office.md",
+                "file": "Linux/Administracao/08_Gerenciamento-de-Grupos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Office"
+              "title": "08_Gerenciamento-de-Grupos"
             }
           }
         ]
@@ -184,10 +184,18 @@
   },
   "active": "b848a1215792fa32",
   "lastOpenFiles": [
+    "Linux/Administracao/07_Gerenciamento-de-Usuarios.md",
+    "Windows/1. Office/2. Excel.md",
+    "Windows/1. Office/attachments/desktop.ini",
+    "Windows/1. Office/attachments/ExcelVBANotesForProfessionals.pdf",
+    "Windows/1. Office/attachments",
+    "Windows/1. Office/1. Dicas.md",
+    "Windows/Sem título.md",
+    "Windows/1. Office",
+    "Windows/Instalação.md",
     "Windows/attachments/Pasted image 20260615165236.png",
     "Windows/attachments/Pasted image 20260615165230.png",
     "Linux/00_Home/00_Index-Linux.md",
-    "Windows/1. Office.md",
     "6. Programação/Python/2. Projetos/2.12. Acessa a página de repositórios de um usuário no GitHub.md",
     "6. Programação/Python/2. Projetos/2.12..md",
     "6. Programação/Python/2. Projetos/Sem título.md",
@@ -210,9 +218,6 @@
     "6. Programação/Python/17..md",
     "6. Programação/Python/1. Bibliotecas/1.1. Instalação de pacotes.md",
     "6. Programação/Python/1. Bibliotecas/1.1..md",
-    "6. Programação/Python/1. Bibliotecas/1.0. Geral.md",
-    "6. Programação/Python/1. Bibliotecas/0. Geral.md",
-    "6. Programação/Python/2. Projetos/2.11. Ferramenta gráfica para abrir o navegador.md",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144451.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144443.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144435.png",
@@ -221,15 +226,10 @@
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144410.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144359.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144328.png",
-    "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144319.png",
     "6. Programação/Python/2. Projetos/attachments",
     "6. Programação/Python/2. Projetos",
     "6. Programação/Python/Sem título",
     "6. Programação/0. IDLE/attachments",
-    "6. Programação/0. IDLE",
-    "6. Programação/0. ID",
-    "6. Programação/0. EDIE",
-    "6. Programação/Programação",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
