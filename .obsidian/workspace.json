@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Administracao/08_Gerenciamento-de-Grupos.md",
+                "file": "Windows/1. Office/3. PowerPoint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08_Gerenciamento-de-Grupos"
+              "title": "3. PowerPoint"
             }
           }
         ]
@@ -184,6 +184,9 @@
   },
   "active": "b848a1215792fa32",
   "lastOpenFiles": [
+    "Linux/Administracao/08_Gerenciamento-de-Grupos.md",
+    "Windows/1. Office/3. PowerPoint.md",
+    "Windows/1. Office/Sem título",
     "Windows/1. Ferramenta.md",
     "Windows/Sem título.md",
     "Windows/2. Servidor/2.1. LDAP.md",
@@ -218,8 +221,6 @@
     "6. Programação/Python/1. Bibliotecas/1.5. PyPDF2.md",
     "6. Programação/Python/1. Bibliotecas/1.4. pandas.md",
     "6. Programação/Python/18. Tratamento de arquivo.md",
-    "6. Programação/Python/18..md",
-    "6. Programação/Python/Sem título.md",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144451.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144443.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144435.png",
@@ -229,7 +230,6 @@
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144359.png",
     "6. Programação/Python/2. Projetos/attachments/Pasted image 20260615144328.png",
     "6. Programação/Python/2. Projetos/attachments",
-    "6. Programação/Python/2. Projetos",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
